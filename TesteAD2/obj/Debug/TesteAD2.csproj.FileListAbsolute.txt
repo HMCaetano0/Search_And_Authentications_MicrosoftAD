@@ -1,0 +1,12 @@
+C:\Users\hcaetano\Desktop\HWID\TesteAD2\TesteAD2\bin\Debug\TesteAD2.exe
+C:\Users\hcaetano\Desktop\HWID\TesteAD2\TesteAD2\bin\Debug\TesteAD2.pdb
+C:\Users\hcaetano\Desktop\HWID\TesteAD2\TesteAD2\obj\Debug\TesteAD2.csproj.AssemblyReference.cache
+C:\Users\hcaetano\Desktop\HWID\TesteAD2\TesteAD2\obj\Debug\TesteAD2.csproj.CoreCompileInputs.cache
+C:\Users\hcaetano\Desktop\HWID\TesteAD2\TesteAD2\obj\Debug\TesteAD2.exe
+C:\Users\hcaetano\Desktop\HWID\TesteAD2\TesteAD2\obj\Debug\TesteAD2.pdb
+C:\Users\hcaetano\Desktop\TesteAD2\TesteAD2\bin\Debug\TesteAD2.exe
+C:\Users\hcaetano\Desktop\TesteAD2\TesteAD2\bin\Debug\TesteAD2.pdb
+C:\Users\hcaetano\Desktop\TesteAD2\TesteAD2\obj\Debug\TesteAD2.csproj.AssemblyReference.cache
+C:\Users\hcaetano\Desktop\TesteAD2\TesteAD2\obj\Debug\TesteAD2.csproj.CoreCompileInputs.cache
+C:\Users\hcaetano\Desktop\TesteAD2\TesteAD2\obj\Debug\TesteAD2.exe
+C:\Users\hcaetano\Desktop\TesteAD2\TesteAD2\obj\Debug\TesteAD2.pdb
